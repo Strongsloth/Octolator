@@ -13,11 +13,11 @@ Octolator is a small project developed for Octopus buyers to create simple yet c
       - S - Small
       - US - Under Size
       - RE - Reject
-+ 📛Name Control - Control the Names shown on the reciept.(Includes the seller  and buyer/agent)
+
 + 〽️Total Marked Down  - Preview and Set Markdown of Total.
   
 
 ---
 ## Soon Features:
-+ 🖨️Printer Capabilities(**SOON**)
-+ 
++ 🖨️Printing Capabilities(**SOON**)
++ 📛Name Control - Control the Names shown on the reciept.(Includes the seller  and buyer/agent)
