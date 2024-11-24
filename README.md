@@ -15,8 +15,9 @@ Octolator is a small project developed for Octopus buyers to create simple yet c
       - RE - Reject
 + 📛Name Control - Control the Names shown on the reciept.(Includes the seller  and buyer/agent)
 + 〽️Total Marked Down  - Preview and Set Markdown of Total.
-+ 🖨️Printer Capabilities(**SOON**)  
+  
 
 ---
-## What's New:
-Nothing
+## Soon Features:
++ 🖨️Printer Capabilities(**SOON**)
++ 
