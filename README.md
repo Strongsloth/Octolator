@@ -1,4 +1,4 @@
-# <p align="center">💻Octolator</p>
+# <p align="center">(💻)[Strongsloth.github.io/Octolator]Octolator</p>
 #### <p align="center">🎉Version: <b>Octo3</b>🎉</p>
 ---
 ## What is Octolator?
