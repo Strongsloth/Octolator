@@ -6,12 +6,14 @@ Octolator is a small project developed for Octopus buyers to create simple yet c
 ### Features,
  + Addition Mode - for adding only kilograms when mistakes happen or anything else (defaultss to none).
  + Decimail Rounding - Rounds Decimals in Total to the Hundredths.(E.g. 10.99 --> 11.00)
+ + Local User Control - Control which user is used in the web page.(Includes pricing of octopus,etc..)
  + Octopus Supported Sizes - Size format for Octopus in Exportation,
       - B - Big
       - M - Medium
       - S - Small
       - US - Under Size
       - RE - Reject
++ djf
 
 ---
 ## What's New:
