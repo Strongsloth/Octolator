@@ -1,1 +1,1 @@
-# <div style="text-align: center;" markdown="1">Octolator</div>
+# <p align="center">Octolator</p>
