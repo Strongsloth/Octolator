@@ -1,4 +1,4 @@
-# <p align="center">[💻](https://Strongsloth.github.io/Octolator)Octolator:Remastered</p>
+# <p align="center">[💻](https://Strongsloth.github.io/Octolator)Octolator: Remastered</p>
 #### <p align="center">🎉Version: **Octo3**🎉</p>
 ---
 ## What is Octolator?
